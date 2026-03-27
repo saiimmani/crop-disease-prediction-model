@@ -11,7 +11,7 @@
 
 ## 📋 Overview
 
-This project implements a **5-step weakly-supervised learning pipeline** to achieve **pixel-level disease segmentation** and **severity quantification** for plant leaves using **only image-level labels**. The system combines **Grad-CAM** for attention visualization with **U-Net** for semantic segmentation, providing both disease localization and quantitative severity assessment.
+This project implements a **weakly-supervised learning pipeline** to achieve **pixel-level disease segmentation** and **severity quantification** for plant leaves using **only image-level labels**. The system combines **Grad-CAM** for attention visualization with **U-Net** for semantic segmentation, providing both disease localization and quantitative severity assessment.
 
 ### 🎯 Key Features
 
