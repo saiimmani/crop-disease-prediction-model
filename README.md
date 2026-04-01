@@ -427,8 +427,7 @@ base_model = classification_model.get_layer('mobilenetv2_1.00_224')
 ## 👨‍💻 Author
 
 **Immani Rama Venkata Sri Sai**  
-*B.Tech – Computer Science and Engineering*  
-**Specialization**: Artificial Intelligence, Machine Learning, Computer Vision
+*B.Tech – Computer Science and Engineering*
 
 ### **Connect with Me**
 
